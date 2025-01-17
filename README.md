@@ -22,7 +22,7 @@ To run this project, ensure you have Python installed. You will also need the fo
 - transformers (for fine-tuning GPT)
 
 ## Data
-The dataset used in this project is an Excel file named dd_bios.xls, which contains character bios in the following format:
+The dataset used in this project is an Excel file which contains character bios in the following format:
 
 - Timestamp: The time of entry
 - Character's Name: Name of the character
@@ -33,6 +33,7 @@ The dataset used in this project is an Excel file named dd_bios.xls, which conta
 
 ## Analysis Steps
 Loading Data: The dataset is loaded using pandas.
+
 Data Cleaning:
 - Dropped unnecessary columns (e.g., Timestamp).
 - Renamed columns for clarity.
