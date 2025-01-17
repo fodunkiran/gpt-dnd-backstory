@@ -26,9 +26,13 @@ The dataset used in this project is an Excel file named dd_bios.xls, which conta
 
 Timestamp: The time of entry
 Character's Name: Name of the character
+
 Character's Race: Race of the character (e.g., human, elf, dwarf)
+
 Character's Class: Class of the character (e.g., rogue, wizard, cleric)
+
 Character's Backstory: A narrative detailing the character’s background and motivations
+
 
 ## Analysis Steps
 Loading Data: The dataset is loaded using pandas.
