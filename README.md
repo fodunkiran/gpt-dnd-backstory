@@ -45,7 +45,6 @@ In this project, we also explore the fine-tuning of a GPT model to generate char
 Preparing the Dataset: Format the character backstories into a suitable format for training.
 Fine-Tuning: Use the transformers library to train the GPT model on the character backstories.
 Generating New Characters: After fine-tuning, generate new character stories based on prompts.
-For detailed instructions on fine-tuning the model, refer to the fine_tuning_gpt.py script.
 
 ## Results
 The project outputs a cleaned dataset ready for analysis. The backstories provide insights into character development and narrative depth, which can be further explored for storytelling or game design purposes. The fine-tuned GPT model can also generate new and unique character stories.
